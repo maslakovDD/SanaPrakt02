@@ -12,3 +12,4 @@
  * [x] GitHub
  * [ ] GitLab
  * [ ] Bitbucket
+## Виконав: Маслаков Дмитро
