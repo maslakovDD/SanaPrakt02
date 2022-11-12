@@ -2,5 +2,5 @@
 Console.WriteLine("Виконав Маслаков Дмитро");
 Console.WriteLine("Виконав Маслаков Дмитро");
 Console.WriteLine("Виконав Маслаков Дмитро");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Практична робота #2");
+Console.WriteLine("Практична робота #2");

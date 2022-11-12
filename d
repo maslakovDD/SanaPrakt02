@@ -1,0 +1,35 @@
+[33mcommit baeb6300861dec19b5c65db7842fa0c745ed51ee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: maslakovDD <ipz212_mdd@student.ztu.edu.ua>
+Date:   Sat Nov 12 15:19:14 2022 +0200
+
+    add 4 messages
+
+[33mcommit 42ae0bd78a015b25c0b0046f18ed7f1b65bab007[m
+Author: maslakovDD <ipz212_mdd@student.ztu.edu.ua>
+Date:   Sat Nov 12 15:18:26 2022 +0200
+
+    changed message
+
+[33mcommit d8f8ec76445cbce114f83a0dc3d52532a42aa625[m
+Author: maslakovDD <ipz212_mdd@student.ztu.edu.ua>
+Date:   Sat Nov 12 15:13:48 2022 +0200
+
+    changed text message
+
+[33mcommit 96625d1c705f6b8a123ad80c4283128bf4a99371[m
+Author: maslakovDD <ipz212_mdd@student.ztu.edu.ua>
+Date:   Sat Nov 12 15:12:45 2022 +0200
+
+    add console app
+
+[33mcommit 90b7026ad286a32c9ea64cb141af36a672c10c45[m
+Author: Maslakov Dmytro <91892283+maslakovDD@users.noreply.github.com>
+Date:   Sat Nov 12 13:56:24 2022 +0200
+
+    Update README.md
+
+[33mcommit a2b653750d916346c91736fc993a735a45517bc6[m
+Author: Maslakov Dmytro <91892283+maslakovDD@users.noreply.github.com>
+Date:   Sat Nov 12 13:46:49 2022 +0200
+
+    Initial commit
